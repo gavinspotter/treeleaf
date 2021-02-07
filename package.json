@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/gavinspotter/treeleaf/issues"
   },
-  "homepage": "https://github.com/gavinspotter/treeleaf#readme"
+  "homepage": "https://github.com/gavinspotter/treeleaf#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
